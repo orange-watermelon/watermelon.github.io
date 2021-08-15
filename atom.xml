@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://orange-watermelon.github.io/</id>
     <title>Gridea</title>
-    <updated>2021-08-15T13:42:29.250Z</updated>
+    <updated>2021-08-15T14:01:59.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://orange-watermelon.github.io/"/>
     <link rel="self" href="https://orange-watermelon.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://orange-watermelon.github.io/images/avatar.png</logo>
     <icon>https://orange-watermelon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[mq的发送策略]]></title>
+        <id>https://orange-watermelon.github.io/post/mq-de-fa-song-ce-lue/</id>
+        <link href="https://orange-watermelon.github.io/post/mq-de-fa-song-ce-lue/">
+        </link>
+        <updated>2021-08-15T13:48:57.000Z</updated>
+        <content type="html"><![CDATA[<p>qqq</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://orange-watermelon.github.io/post/hello-gridea/</id>
